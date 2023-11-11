@@ -1,12 +1,1 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![이미지](https://media.discordapp.net/attachments/905797523363483659/1172766962523308112/-_-001_10.png?ex=65618358&is=654f0e58&hm=de346b43e726a5a15d91005d81198497683490d08629e9e9aafbb828cc012693&=&width=1755&height=987)
