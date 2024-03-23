@@ -1,2 +1,2 @@
-![이미지](https://media.discordapp.net/attachments/905797523363483659/1172766962523308112/-_-001_10.png?ex=65618358&is=654f0e58&hm=de346b43e726a5a15d91005d81198497683490d08629e9e9aafbb828cc012693&=&width=1755&height=987)
-![이미지2](https://media.discordapp.net/attachments/905797523363483659/1172767449058381875/-_-001_11.png?ex=656183cc&is=654f0ecc&hm=85c61364dd7452185649ef658d9b8f79fbcabe8c969a91e76354c942e32e5344&=&width=1755&height=987)
+![이미지](https://media.discordapp.net/attachments/905797523363483659/1172766962523308112/-_-001_10.png?ex=6610dad8&is=65fe65d8&hm=5ac05d0e8c28a29eb44217aef5bab82935186765f521718036c1ea883d924451&=&format=webp&quality=lossless&width=840&height=473)
+![이미지2](https://media.discordapp.net/attachments/905797523363483659/1172767449058381875/-_-001_11.png?ex=6610db4c&is=65fe664c&hm=03e05e2035c031fa5f434720a4b6cba480364bb9ae4f3a03dad4a955642fdbd7&=&format=webp&quality=lossless&width=840&height=473)
